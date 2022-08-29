@@ -1,7 +1,7 @@
 namespace TNT
-{
-    class ngoctienTNT
-    {
+
+{ 
+        class NguyenDucTrungSUK
         static void Main(string[] args)
         {
             string Name = "Nguyễn Đức Trung";
